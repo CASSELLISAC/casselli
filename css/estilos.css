@@ -1,0 +1,97 @@
+.pacifico{
+    font-family: 'Bangers', cursive;
+}
+a{
+    color: #1FBEA4;
+    font-size: 20px;
+}
+.colorr{
+    color: brown;
+}
+.mb{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.img-center {
+  margin: 0 auto;
+}
+.centrado{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.centradoV
+{
+    display: table-cell;
+    vertical-align: middle
+}
+.piee{
+    background-color:chocolate;
+}
+.img-center{
+    margin-bottom: auto;
+    align-content: center;
+}
+.resaltar_texto {
+    font-size: 17px;
+    font-family:cursive;
+    color: #000;
+}
+.centro{
+    width: auto;
+    height: auto;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgba(0,0,0,0.5);
+    color:antiquewhite;
+}
+.centros{
+    width: auto;
+    height: auto;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.zurdo {
+    width: auto;
+    height: auto;
+    float: right;
+    margin-right: 30px;
+    background: rgba(0,0,0,0.5);
+    color:antiquewhite;
+}
+.derecho {
+    width: auto;
+    height: auto;
+    float:left;
+    background: rgba(0,0,0,0.5);
+    color:antiquewhite;
+}
+.imge{
+    background-image: url(../img/section.png)
+    
+}*/
+.derecha{
+    float: right;
+    margin-top: 10px;
+}
+.mlf{
+    float: right;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+.abajo{
+    margin-bottom: 20px;
+}
+.lado{
+    margin-top: 20px;
+}
+.mas{
+    font-size: 20px;
+    font-family: cursive;
+}
+.movedere{
+    float: right;
+}
+/* -- barra de navegacion --*/
